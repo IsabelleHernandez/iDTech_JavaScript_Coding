@@ -1,1 +1,2 @@
 # Debugging Activity
+This assignment had you choose 3 out of the 4 debugging activities where each one has something wrong with the code. In 3 of the activites you must find what is wrong with the code and fix it in order to proceed. 
