@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+This assignment has you click a button that starts a game, then click another button as many Pac Men as you want. The pacmen move anywhere randomly around the screen. If the pacmen hit the screen, they stay in the same direction, but they bounce off of all walls.
